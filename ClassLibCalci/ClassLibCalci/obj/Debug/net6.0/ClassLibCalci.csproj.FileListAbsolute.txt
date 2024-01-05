@@ -1,0 +1,11 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-1 Assignment\ClassLibCalci\ClassLibCalci\bin\Debug\net6.0\ClassLibCalci.deps.json
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-1 Assignment\ClassLibCalci\ClassLibCalci\bin\Debug\net6.0\ClassLibCalci.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-1 Assignment\ClassLibCalci\ClassLibCalci\bin\Debug\net6.0\ClassLibCalci.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-1 Assignment\ClassLibCalci\ClassLibCalci\obj\Debug\net6.0\ClassLibCalci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-1 Assignment\ClassLibCalci\ClassLibCalci\obj\Debug\net6.0\ClassLibCalci.AssemblyInfoInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-1 Assignment\ClassLibCalci\ClassLibCalci\obj\Debug\net6.0\ClassLibCalci.AssemblyInfo.cs
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-1 Assignment\ClassLibCalci\ClassLibCalci\obj\Debug\net6.0\ClassLibCalci.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-1 Assignment\ClassLibCalci\ClassLibCalci\obj\Debug\net6.0\ClassLibCalci.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-1 Assignment\ClassLibCalci\ClassLibCalci\obj\Debug\net6.0\refint\ClassLibCalci.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-1 Assignment\ClassLibCalci\ClassLibCalci\obj\Debug\net6.0\ClassLibCalci.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-1 Assignment\ClassLibCalci\ClassLibCalci\obj\Debug\net6.0\ref\ClassLibCalci.dll
